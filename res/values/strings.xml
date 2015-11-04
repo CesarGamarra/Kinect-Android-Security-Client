@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SeguridadKinect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string-array name="inclinaciones">
+        <item>Inclinacion</item>
+        <item>-25</item>
+        <item>-20</item>
+        <item>-15</item>
+        <item>-10</item>
+        <item>-5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+    
+</resources>
